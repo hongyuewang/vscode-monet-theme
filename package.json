@@ -1,0 +1,21 @@
+{
+    "name": "monet-theme",
+    "displayName": "monet-theme",
+    "description": "A dark theme based on Claude Monet's Water Lilies series.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monet Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monet Theme-color-theme.json"
+            }
+        ]
+    }
+}
