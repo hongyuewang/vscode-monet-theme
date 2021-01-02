@@ -3,9 +3,9 @@
   "type": "dark",
   "colors": {
     "editor.background": "#202B31",
-    "editor.foreground": "#DCDFE5",
+    "editor.foreground": "#D6D6D6",
     "activityBarBadge.background": "#59a183",
-    "sideBarTitle.foreground": "#bbbbbb"
+    "sideBarTitle.foreground": "#BBBBBB"
   },
   "tokenColors": [
     {
@@ -18,7 +18,11 @@
     },
     {
       "name": "Variables",
-      "scope": ["variable", "string constant.other.placeholder", "meta.object-literal.key.js"],
+      "scope": [
+        "variable",
+        "string constant.other.placeholder",
+        "meta.object-literal.key.js"
+      ],
       "settings": {
         "foreground": "#82D9A5"
       }
@@ -48,7 +52,6 @@
       "name": "Operator, Misc",
       "scope": [
         "constant.other.color",
-        "punctuation",
         "meta.tag",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
@@ -60,14 +63,12 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#DCDFE5"
+        "foreground": "#D6D6D6"
       }
     },
     {
       "name": "Keyword Control",
-      "scope": [
-        "keyword.control"
-      ],
+      "scope": ["keyword.control"],
       "settings": {
         "foreground": "#70BCC2"
       }
@@ -80,7 +81,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#82D9A5"
       }
     },
     {
@@ -175,7 +176,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#D6D6D6"
       }
     },
     {
@@ -219,7 +220,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#C979D3"
       }
     },
     {
@@ -237,14 +238,28 @@
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#80cfe2"
+      }
+    },
+    {
+      "name": "CSS Classes Selector",
+      "scope": ["entity.other.attribute-name.class.css"],
+      "settings": {
+        "foreground": "#80cfe2"
       }
     },
     {
       "name": "CSS ID's",
       "scope": ["source.sass keyword.control"],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#C979D3"
+      }
+    },
+    {
+      "name": "CSS ID's Selector",
+      "scope": ["entity.other.attribute-name.id.css"],
+      "settings": {
+        "foreground": "#C979D3"
       }
     },
     {
@@ -272,7 +287,7 @@
       "name": "Regular Expressions",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#70BCC2"
       }
     },
     {
@@ -562,7 +577,6 @@
       "settings": {
         "foreground": "#EB84BD"
       }
-
     }
   ]
 }
