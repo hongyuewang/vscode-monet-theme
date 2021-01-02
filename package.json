@@ -14,7 +14,7 @@
             {
                 "label": "Monet Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Monet Theme-color-theme.json"
+                "path": "./themes/monet-theme-color-theme.json"
             }
         ]
     }
