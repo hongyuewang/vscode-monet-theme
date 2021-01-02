@@ -100,7 +100,7 @@
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#e76aaf"
+        "foreground": "#EB84BD"
       }
     },
     {
@@ -555,6 +555,14 @@
       "settings": {
         "foreground": "#EEFFFF"
       }
+    },
+    {
+      "name": "Java - Method",
+      "scope": ["meta.method.java"],
+      "settings": {
+        "foreground": "#EB84BD"
+      }
+
     }
   ]
 }
