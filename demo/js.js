@@ -50,7 +50,7 @@ for (let i = 0; i < 10; i++) {}
 for (const something of things) {
 }
 
-for (const soemthing in things) {
+for (const something in things) {
 }
 
 while (something) {}

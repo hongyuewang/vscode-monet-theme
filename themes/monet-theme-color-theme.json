@@ -18,7 +18,7 @@
     },
     {
       "name": "Variables",
-      "scope": ["variable", "string constant.other.placeholder"],
+      "scope": ["variable", "string constant.other.placeholder", "meta.object-literal.key.js"],
       "settings": {
         "foreground": "#82D9A5"
       }
@@ -47,7 +47,6 @@
     {
       "name": "Operator, Misc",
       "scope": [
-        "keyword.control",
         "constant.other.color",
         "punctuation",
         "meta.tag",
@@ -62,6 +61,15 @@
       ],
       "settings": {
         "foreground": "#DCDFE5"
+      }
+    },
+    {
+      "name": "Keyword Control",
+      "scope": [
+        "keyword.control"
+      ],
+      "settings": {
+        "foreground": "#70BCC2"
       }
     },
     {
