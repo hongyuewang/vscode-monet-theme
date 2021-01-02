@@ -31,7 +31,7 @@
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#A6B5DE"
       }
     },
     {
@@ -51,7 +51,6 @@
     {
       "name": "Operator, Misc",
       "scope": [
-        "constant.other.color",
         "meta.tag",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
@@ -120,8 +119,7 @@
         "constant.character",
         "constant.escape",
         "variable.parameter",
-        "keyword.other.unit",
-        "keyword.other"
+        "keyword.other.unit"
       ],
       "settings": {
         "foreground": "#A6B5DE"
@@ -260,6 +258,13 @@
       "scope": ["entity.other.attribute-name.id.css"],
       "settings": {
         "foreground": "#C979D3"
+      }
+    },
+    {
+      "name": "CSS Pseudo Class",
+      "scope": ["entity.other.attribute-name.pseudo-class.css"],
+      "settings": {
+        "foreground": "#f2d77d"
       }
     },
     {

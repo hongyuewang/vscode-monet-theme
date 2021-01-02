@@ -1,4 +1,4 @@
-.class {
+.class:hover {
   color: red;
   color: #008000;
   color: hsl(240, 100%, 50%);
