@@ -43,7 +43,12 @@
     },
     {
       "name": "Keyword, Storage",
-      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier",
+        "keyword.control"
+      ],
       "settings": {
         "foreground": "#C979D3"
       }
@@ -63,13 +68,6 @@
       ],
       "settings": {
         "foreground": "#D6D6D6"
-      }
-    },
-    {
-      "name": "Keyword Control",
-      "scope": ["keyword.control"],
-      "settings": {
-        "foreground": "#70BCC2"
       }
     },
     {
