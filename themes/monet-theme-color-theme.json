@@ -4,6 +4,7 @@
   "semanticHighlighting": true,
   "colors": {
     "editor.background": "#202B31",
+    "focusBorder": "#202B31",
     "editor.foreground": "#D6D6D6",
     "editor.selectionBackground": "#2e3d44",
     "activityBar.background": "#202B31",
