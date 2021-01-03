@@ -1,6 +1,7 @@
 {
   "name": "Monet Theme",
   "type": "dark",
+  "semanticHighlighting": true,
   "colors": {
     "editor.background": "#202B31",
     "editor.foreground": "#D6D6D6",
@@ -13,7 +14,11 @@
     "statusBar.foreground": "#D6D6D6",
     "statusBar.debuggingBackground": "#C979D3",
     "titleBar.activeBackground":"#202B31",
-    "tab.inactiveBackground":"#28353E"
+    "tab.inactiveBackground":"#28353E",
+    "textBlockQuote.border": "#59a183",
+    "textLink.foreground": "#C979D3",
+    "textLink.activeForeground": "#E0B2E6",
+    "textPreformat.foreground": "#F2D77D"
   },
   "tokenColors": [
     {
@@ -21,7 +26,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#546E7A"
+        "foreground": "#678391"
       }
     },
     {
@@ -463,7 +468,7 @@
       "scope": ["markup.italic"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f07178"
+        "foreground": "#9D92CC"
       }
     },
     {
@@ -471,7 +476,7 @@
       "scope": ["markup.bold", "markup.bold string"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#f07178"
+        "foreground": "#82D9A5"
       }
     },
     {
@@ -486,7 +491,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#f07178"
+        "foreground": "#82D9A5"
       }
     },
     {
@@ -494,7 +499,7 @@
       "scope": ["markup.underline"],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#F78C6C"
+        "foreground": "#C979D3"
       }
     },
     {
