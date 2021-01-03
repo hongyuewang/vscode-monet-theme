@@ -21,6 +21,7 @@
     "input.border": "#202B31",
     "dropdown.background": "#28343E",
     "dropdown.border": "#202B31",
+    "debugToolBar.background": "#202B31",
     "statusBar.debuggingBackground": "#C979D3",
     "titleBar.activeBackground":"#202B31",
     "tab.inactiveBackground":"#28353E",
