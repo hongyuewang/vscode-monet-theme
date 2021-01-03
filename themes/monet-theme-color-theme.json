@@ -47,7 +47,8 @@
         "keyword",
         "storage.type",
         "storage.modifier",
-        "keyword.control"
+        "keyword.control",
+        "punctuation.definition.template-expression"
       ],
       "settings": {
         "foreground": "#C979D3"
@@ -419,7 +420,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#EEFFFF"
+        "foreground": "#D6D6D6"
       }
     },
     {
@@ -446,7 +447,7 @@
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#80CFE2"
       }
     },
     {
@@ -506,7 +507,7 @@
       "name": "Markdown - Link",
       "scope": ["string.other.link.title.markdown"],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#70BCC2"
       }
     },
     {
