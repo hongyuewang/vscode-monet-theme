@@ -21,7 +21,7 @@
       "scope": [
         "variable",
         "string constant.other.placeholder",
-        "meta.object-literal.key.js"
+        "meta.object-literal.key"
       ],
       "settings": {
         "foreground": "#82D9A5"
