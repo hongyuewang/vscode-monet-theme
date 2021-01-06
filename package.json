@@ -32,7 +32,7 @@
     "color": "#28353E",
     "theme": "dark"
   },
-  "icon": "logo.png",
+  "icon": "img/logo.png",
   "contributes": {
     "themes": [
       {
