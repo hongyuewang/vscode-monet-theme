@@ -32,7 +32,7 @@
     "color": "#FFFFFF",
     "theme": "dark"
   },
-  "icon": "img/logo.png",
+  "icon": "img/logo.jpg",
   "contributes": {
     "themes": [
       {
