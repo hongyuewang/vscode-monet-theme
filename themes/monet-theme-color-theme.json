@@ -22,6 +22,7 @@
     "dropdown.background": "#28343E",
     "dropdown.border": "#202B31",
     "editorWidget.background": "#202B31",
+    "list.hoverBackground": "#2e3d44",
     "debugToolBar.background": "#202B31",
     "statusBar.debuggingBackground": "#C979D3",
     "titleBar.activeBackground":"#202B31",
@@ -61,8 +62,8 @@
     "terminal.ansiGreen": "#7EC3C8",
     "terminal.ansiBrightMagenta": "#C979D3",
     "terminal.ansiMagenta": "#C165CD",
-    "terminal.ansiBrightRed": "#f04545",
-    "terminal.ansiRed": "#eb4848",
+    "terminal.ansiBrightRed": "#e0646e",
+    "terminal.ansiRed": "#da4450",
     "terminal.ansiBrightCyan": "#10f7f7",
     "terminal.ansiCyan": "#18f1f1"
   },
