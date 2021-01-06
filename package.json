@@ -1,21 +1,45 @@
 {
-    "name": "monet-theme",
-    "displayName": "Monet Theme",
-    "description": "A dark theme based on Claude Monet's Water Lilies series.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.52.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Monet Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/monet-theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "monet-theme",
+  "displayName": "Monet Theme",
+  "description": "A dark theme based on Claude Monet's Water Lilies series.",
+  "publisher": "hongyuewang",
+  "author": {
+    "name": "Hong Yue Wang"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Monet",
+    "Dark Theme",
+    "dark-theme",
+    "color-theme",
+    "theme",
+    "Muted colors"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hongyuewang/vscode-monet-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/hongyuewang/vscode-monet-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#28353E",
+    "theme": "dark"
+  },
+  "icon": "logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monet Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monet-theme-color-theme.json"
+      }
+    ]
+  }
 }
