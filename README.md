@@ -6,7 +6,7 @@
 
 A dark theme based on Claude Monet's Water Lilies series.
 
-![demo](img/demo.png)
+![demo](https://cdn.jsdelivr.net/gh/hongyuewang/vscode-monet-theme/main/img/demo.png)
 
 ## Installation
 
