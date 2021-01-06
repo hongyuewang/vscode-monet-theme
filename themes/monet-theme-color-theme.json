@@ -49,7 +49,19 @@
     "editorOverviewRuler.warningForeground": "#F4A261",
     "problemsWarningIcon.foreground": "#F4A261",
     "notificationsWarningIcon.foreground": "#F4A261",
-    "debugConsole.warningForeground": "#F4A261"
+    "debugConsole.warningForeground": "#F4A261",
+    "terminal.ansiBrightYellow": "#F2D77D",
+    "terminal.ansiYellow": "#f0d16a",
+    "terminal.ansiBlue": "#A6B5DE",
+    "terminal.ansiBrightBlue": "#80CFE2",
+    "terminal.ansiBrightGreen": "#82d9a5",
+    "terminal.ansiGreen": "#7EC3C8",
+    "terminal.ansiBrightMagenta": "#C979D3",
+    "terminal.ansiMagenta": "#C165CD",
+    "terminal.ansiBrightRed": "#f04545",
+    "terminal.ansiRed": "#eb4848",
+    "terminal.ansiBrightCyan": "#10f7f7",
+    "terminal.ansiCyan": "#18f1f1"
   },
   "tokenColors": [
     {
