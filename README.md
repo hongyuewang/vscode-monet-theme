@@ -2,7 +2,7 @@
 
 A dark theme based on Claude Monet's Water Lilies series.
 
-# Installation
+## Installation
 
 1. Open **Extensions** through `View → Extensions`
 2. Search for `Monet Theme`
