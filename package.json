@@ -6,7 +6,7 @@
   "author": {
     "name": "Hong Yue Wang"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.52.0"
   },
@@ -29,7 +29,7 @@
     "url": "https://github.com/hongyuewang/vscode-monet-theme/issues"
   },
   "galleryBanner": {
-    "color": "#FFFFFF",
+    "color": "#202B31",
     "theme": "dark"
   },
   "icon": "img/logo.jpg",
